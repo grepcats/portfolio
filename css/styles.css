@@ -11,6 +11,12 @@ img.about {
   font-weight: bold;
 }
 
+.project {
+  width: 300px;
+  float:left;
+  margin: 10px;
+}
+
 /* changing the font color for bootstrap nav tabs */
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
