@@ -2,6 +2,8 @@ img.about {
   width: 200px;
   height: 200px;
   border-radius: 50px;
+  margin-right: 15px;
+  margin-bottom: 15px;
 }
 
 .proj-label {
@@ -12,14 +14,20 @@ img.about {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #37801E; /* darker green */
+  color: #005A31; /* darker green */
 }
 
 .nav-tabs > li > a {
-  color: #4DB729; /* green */
+  color: #A8CD1B; /* green */
 }
 
 .res-title {
   font-weight: bold;
-  color: #37801E;
+  color: #005A31;
 }
+
+/*
+#37801E;
+#4DB729;
+#37801E;
+*/
