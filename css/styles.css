@@ -1,3 +1,4 @@
+
 h1 a {
   color: #333;
 }
@@ -9,6 +10,15 @@ h1 a:hover {
 
 h1 {
   margin-bottom: 20px;
+}
+
+a {
+  color: #37A512;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #005A31;
 }
 
 img.about {
@@ -44,7 +54,7 @@ img.about {
 }
 
 .nav-tabs > li > a {
-  color: #A8CD1B; /* green */
+  color: #37A512; /* green */
 }
 
 
@@ -72,4 +82,18 @@ img.about {
     text-align:center;
   }
 
+  .project-parent {
+    justify-content: center;
+  }
+}
+
+h2 {
+  border-bottom: 1px solid green;
+  padding-bottom: 5px;
+}
+
+@media all and (max-width: 768px) {
+  .project-parent {
+    justify-content: center;
+  }
 }
