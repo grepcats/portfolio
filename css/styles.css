@@ -7,6 +7,10 @@ h1 a:hover {
   color: #333;
 }
 
+h1 {
+  margin-bottom: 20px;
+}
+
 img.about {
   width: 200px;
   height: 200px;
@@ -43,13 +47,29 @@ img.about {
   color: #A8CD1B; /* green */
 }
 
+
 .res-title {
   font-weight: bold;
   color: #005A31;
 }
 
-/*
-#37801E;
-#4DB729;
-#37801E;
-*/
+.date {
+  text-align: right;
+}
+
+/* media queries */
+@media all and (max-width: 480px) {
+  h1, h2 {
+    text-align: center;
+  }
+
+  .nav-tabs > li {
+    float:none;
+    display:inline-block;
+  }
+
+  .nav-tabs {
+    text-align:center;
+  }
+
+}
