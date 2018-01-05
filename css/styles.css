@@ -42,7 +42,14 @@ img.about {
   border-radius: 50px;
   margin-left: 15px;
   margin-bottom: 15px;
+}
+
+img.top {
   float:right;
+}
+
+img.bottom {
+  float:left;
 }
 
 .proj-label {
