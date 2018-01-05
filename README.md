@@ -2,7 +2,7 @@
 
 #### _Portfolio website for Kayla Ondracek, 1/5/2018_
 
-#### By _*Kayla Ondracek**_
+#### By _**Kayla Ondracek**_
 
 ## Description
 
