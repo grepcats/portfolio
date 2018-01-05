@@ -12,9 +12,15 @@ img.about {
 }
 
 .project {
-  width: 300px;
-  float:left;
+  width: 30%;
+  min-width: 250px;
+  float: left;
   margin: 10px;
+}
+
+.project-parent {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /* changing the font color for bootstrap nav tabs */
