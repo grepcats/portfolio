@@ -1,3 +1,12 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(to bottom left, #99D884, transparent 40%);
+  background-repeat: no-repeat;
+  font-family: helvetica;
+}
 
 h1 a {
   color: #333;
