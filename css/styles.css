@@ -4,6 +4,7 @@ img.about {
   border-radius: 50px;
   margin-right: 15px;
   margin-bottom: 15px;
+  float:left;
 }
 
 .proj-label {
