@@ -18,3 +18,8 @@ img.about {
 .nav-tabs > li > a {
   color: #4DB729; /* green */
 }
+
+.res-title {
+  font-weight: bold;
+  color: #37801E;
+}
