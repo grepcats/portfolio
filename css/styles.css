@@ -70,7 +70,12 @@ img.bottom {
   flex-wrap: wrap;
 }
 
-/* changing the font color for bootstrap nav tabs */
+.resume-title {
+  font-weight: bold;
+  color: #005A31;
+}
+
+/* changing the font color for Bootstrap nav tabs */
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
@@ -81,16 +86,9 @@ img.bottom {
   color: #37A512; /* green */
 }
 
-.res-title {
-  font-weight: bold;
-  color: #005A31;
-}
 
-.date {
-  text-align: right;
-}
 
-/* media queries */
+/************* media queries *************/
 @media all and (max-width: 480px) {
   h1, h2 {
     text-align: center;
