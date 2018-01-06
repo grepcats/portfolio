@@ -28,6 +28,11 @@ h2 {
   padding-bottom: 5px;
 }
 
+h4 {
+  margin-top: 25px;
+  font-style: italic;
+}
+
 a {
   color: #37A512;
 }
